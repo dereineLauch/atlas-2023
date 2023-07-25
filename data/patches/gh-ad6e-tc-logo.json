@@ -1,0 +1,56 @@
+{
+	"id": 1527,
+	"name": "TC Logo",
+	"description": "Nothing happened here on the 24th of July from 03:40 to 04:45 (BST).\n\nDer Stuhl schweigt.\n\nChaoswalker is to be executed for treason against r/placeDE.",
+	"links": {
+		"website": [
+			"https://kick.com/mrstiventc"
+		]
+	},
+	"path": {
+		"170-190": [
+			[
+				-1003,
+				999
+			],
+			[
+				-1003,
+				983
+			],
+			[
+				-991,
+				984
+			],
+			[
+				-990,
+				975
+			],
+			[
+				-976,
+				966
+			],
+			[
+				-962,
+				965
+			],
+			[
+				-951,
+				975
+			],
+			[
+				-951,
+				983
+			],
+			[
+				-951,
+				999
+			]
+		]
+	},
+	"center": {
+		"170-190": [
+			-969,
+			982
+		]
+	}
+}
